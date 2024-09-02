@@ -1,0 +1,8 @@
+# Ignore the backup folder
+backup/
+
+# Ignore the virtual environment folder
+venv/
+
+# Other files/folders to ignore
+__pycache__/
